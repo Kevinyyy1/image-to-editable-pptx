@@ -1,0 +1,4 @@
+# Python dependencies used by the local validation and reconstruction scripts.
+# Node.js and @oai/artifact-tool are provided by the intended Codex runtime.
+Pillow>=10.0
+lxml>=5.0
